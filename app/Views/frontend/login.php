@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-3 col-md-12 col-sm-12">
-                    <h3 class="text-md mb-4 text-color text-center">My Account | Login Page</h3>
+                    <h3 class="text-md mb-4 text-color text-center">My Account | Login</h3>
                     <div class="card">
                         <div class="card-body">
                             <form id="contact-form" class="contact__form" method="post" action="https://technext.github.io/megakit-2/mail.php">
