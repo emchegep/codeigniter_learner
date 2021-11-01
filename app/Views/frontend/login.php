@@ -14,7 +14,8 @@
                                 <div class="row">
                                     <div class="col-12">
                                         <div class="alert alert-success contact__msg" style="display: none" role="alert">
-                                            Your message was sent successfully.
+                                            Your message was sent
+                                            successfully.Thank you.
                                         </div>
                                     </div>
                                 </div>
